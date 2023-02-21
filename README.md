@@ -1,2 +1,3 @@
 # kinisnotthatking.github.io
-KINTK Blog
+### KINTK Blog
+👋 Welcome to my little corner of the internet where I'll be sharing my musings on life, love, and design. As a self-proclaimed ENFJ 🦄, shutterbug 📷, and amateur bartender 🍹, I have a unique perspective on the world that I'm excited to share with you. Join me on my journey as I code up a storm 💻, rave to my favorite beats 🎶, and explore the world around me through the lens of my camera 🌎. Whether you're a fitness enthusiast 💪 or a lover of art 🎨, I hope my blog will inspire you to live life to the fullest and embrace all the quirks and surprises that come along the way 🌟.
